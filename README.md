@@ -20,11 +20,11 @@ It helps restaurants create and share digital menus instantly using QR codes.
 
 - Python
 - Django
-- qrcode library
+- qrcode, pillow library
 - HTML / CSS
 
 ---
-
+<!-- 
 ## 📸 Preview
 
 ### 🔹 Home Page
@@ -37,4 +37,4 @@ It helps restaurants create and share digital menus instantly using QR codes.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure -->
